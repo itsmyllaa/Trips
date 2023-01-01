@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+*********************************************** SISTEMA DE RESERVA DE VIAGENS *****************************************************
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+TELA INICIAL:
+- Opções de viagens com viagens reservadas
 
-## Available Scripts
 
-In the project directory, you can run:
+![Tela inicial com reservas](https://user-images.githubusercontent.com/60410635/210185680-aa9748a5-d045-4906-940d-c5821e2e6e23.png)
 
-### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+TELA INICIAL:
+- Opções de viagens sem viagens reservadas
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `yarn test`
+![Tela inicial sem reservas](https://user-images.githubusercontent.com/60410635/210185702-2756647a-01f8-4e36-968f-d2f88ffbc7d9.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+TELA DE RESERVAS:
+- Com viagens reservadas
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![Tela de viagens reservadas](https://user-images.githubusercontent.com/60410635/210185722-4da8114a-3d44-4575-b3b2-de33d2b5f7d6.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+TELA DE RESERVAS:
+- Alerta de limite máximo de viagens reservadas atingido
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![Tela de viagens reserv icone](https://user-images.githubusercontent.com/60410635/210185756-02eca78f-64db-4e6c-89e8-0bbf20af5452.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+TELA DE RESERVAS:
+- Sem viagens reservadas
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![Tela de viagens reserv vazia](https://user-images.githubusercontent.com/60410635/210185825-b0abf149-12f4-4472-8b2f-31a8168cd9bb.png)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+ARQUIVO SERVER.JSON 
+- Dados consumidos
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+![Dados consumidos](https://user-images.githubusercontent.com/60410635/210185840-57e2d658-3992-430e-a322-3e1785479e96.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
