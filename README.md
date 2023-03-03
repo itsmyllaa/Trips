@@ -1,4 +1,4 @@
-*********************************************** SISTEMA DE RESERVA DE VIAGENS *****************************************************
+********* SISTEMA DE RESERVA DE VIAGENS ************
 
 TELA INICIAL:
 - Opções de viagens com viagens reservadas
